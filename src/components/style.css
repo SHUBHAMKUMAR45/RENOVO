@@ -1,0 +1,57 @@
+.h1-high-opacity span{
+    display: inline-block;
+}
+.h1-high-opacity{
+    width: 120%;
+    overflow: hidden;
+}
+
+.h1-low-opacity span{
+    display: inline-block;
+}
+.h1-low-opacity{
+    width: 120%;
+    overflow: hidden;
+}
+
+.h3-low-opacity span{
+    display: inline-block;
+}
+.h3-low-opacity{
+    overflow: hidden;
+}
+
+.h3-high-opacity span{
+    display: inline-block;
+}
+.h3-high-opacity{
+    overflow: hidden;
+}
+
+h5.low-service span{
+    display: inline-block;
+}
+h5.low-service{
+    overflow: hidden;
+}
+
+h1.high-service span{
+    display: inline-block;
+}
+h1.high-service{
+    overflow: hidden;
+}
+
+h1.h1-low span{
+    display: inline-block;
+}
+h1.h1-low{
+    overflow: hidden;
+}
+
+h1.h1-high span{
+    display: inline-block;
+}
+h1.h1-high{
+    overflow: hidden;
+}
