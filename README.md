@@ -38,10 +38,3 @@ This will launch the application in your default web browser. The development se
 - Routing with React Router
 - API integration
 
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
